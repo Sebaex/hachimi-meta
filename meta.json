@@ -44,8 +44,14 @@
     {
         "name": "Bahasa Indonesia",
         "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
-        "short_desc": "Translasi oleh Umachimi-ID. Kontributor: Xmatography, FahriAdison, MisuMatsu, gagakitem, Ikazuu, FreyDerika, dkk., lihat progres TL di (tinyurl.com/status-tlid)",
+        "short_desc": "Translasi oleh Umachimi-ID. Kontributor: Xmatography, FahriAdison, MisuMatsu, gagakitem, Ikazuu, FreyDerika, dkk., lihat progres TL di (umachimi.carrd.co)",
         "language": "id"
+    },
+    {
+        "name": "Bahasa Indonesia",
+        "index": "https://raw.githubusercontent.com/1kazuu/umachimi-id-glb/release/index.json",
+        "short_desc": "Translasi oleh Umachimi-ID. Kontributor: Xmatography, FahriAdison, MisuMatsu, gagakitem, Ikazuu, FreyDerika, dkk., lihat progres TL di (umachimi.carrd.co)",
+        "region": "Global"
     },
     {
         "name": "Français (Patch FR)",
