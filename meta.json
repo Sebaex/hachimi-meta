@@ -60,6 +60,12 @@
         "region": "Global"
     },
     {
+        "name": "Español (Patch ES)",
+        "index": "https://raw.githubusercontent.com/Sebaex/hachimi-tl-es/main/index.json",
+        "short_desc": "Patch de traducción al español para Umamusume. Contribuidor: Sebaex. Abierto a contribuciones.",
+        "region": "Global"
+    },
+    {
         "name": "Português (Patch PT-BR)",
         "index": "https://raw.githubusercontent.com/Ahtheerr/hachimi-tl-br/main/index.json",
         "short_desc": "Patch de tradução em Português.",
