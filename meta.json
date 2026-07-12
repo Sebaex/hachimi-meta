@@ -24,51 +24,36 @@
         "language": "zh-tw"
     },
     {
-        "name": "繁體中文（大陸加速鏡像）",
-        "index": "https://fuwadl.yingqwq.cn/zh-tw/index/index.json",
-        "short_desc": "來源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 貢獻者：yotv2000tw (+維護者), seanpai96, asps76482, _akito@ytb, project90418512@twt, …",
-        "language": "zh-tw"
-    },
-    {
         "name": "简体中文",
         "index": "https://files.leadrdrk.com/hachimi/tl-zh-cn.json",
         "short_desc": "官方源，部分译文内容继承自 Trainers' Legend G 译文仓库(tinyurl.com/TLGCredits)。 贡献者：yingyingyingqwq (+维护者), 1oschi, lanshan114514, hyperlotus, Virlurable, yushenzc, … ",
         "language": "zh-cn"
     },
     {
-        "name": "简体中文（大陆加速镜像）",
-        "index": "https://fuwadl.yingqwq.cn/zh-cn/index/index.json",
-        "short_desc": "官方源，仅对部分地区有加速效果。部分译文内容继承自 Trainers' Legend G 译文仓库(tinyurl.com/TLGCredits)。 贡献者：yingyingyingqwq (+维护者), 1oschi, lanshan114514, hyperlotus, Virlurable, yushenzc, … ",
-        "language": "zh-cn"
-    },
-    {
-        "name": "Bahasa Indonesia",
+        "name": "Bahasa Indonesia (Umachimi)",
         "index": "https://raw.githubusercontent.com/Xmatography/umachimi-id/release/index.json",
         "short_desc": "Translasi oleh Umachimi-ID. Kontributor: Xmatography, FahriAdison, MisuMatsu, gagakitem, Ikazuu, FreyDerika, dkk., lihat progres TL di (umachimi.carrd.co)",
         "language": "id"
     },
     {
-        "name": "Bahasa Indonesia",
+        "name": "Bahasa Indonesia (Umachimi)",
         "index": "https://raw.githubusercontent.com/1kazuu/umachimi-id-glb/release/index.json",
         "short_desc": "Translasi oleh Umachimi-ID. Kontributor: Xmatography, FahriAdison, MisuMatsu, gagakitem, Ikazuu, FreyDerika, dkk., lihat progres TL di (umachimi.carrd.co)",
+        "language": "id",
         "region": "Global"
     },
     {
-        "name": "Français (Patch FR)",
+        "name": "Français",
         "index": "https://raw.githubusercontent.com/umamusumeFR/hachimi-tl-fr/release/index.json",
         "short_desc": "Patch de traduction française pour Umamusume. Toujours à jour.  contributors: Yellow, Iz_Shiroi, DeChalon",
+        "language": "fr",
         "region": "Global"
     },
     {
-        "name": "Español (Patch ES)",
-        "index": "https://raw.githubusercontent.com/Sebaex/hachimi-tl-es/main/index.json",
-        "short_desc": "Patch de traducción al español para Umamusume. Contribuidor: Sebaex. Abierto a contribuciones.",
-        "region": "Global"
-    },
-    {
-        "name": "Português (Patch PT-BR)",
+        "name": "Português Brasileiro",
         "index": "https://raw.githubusercontent.com/Ahtheerr/hachimi-tl-br/main/index.json",
         "short_desc": "Patch de tradução em Português.",
+        "language": "pt-br",
         "region": "Global"
     },
     {
@@ -76,6 +61,13 @@
         "index": "https://codeberg.org/kita/hachimi-fil-glb/raw/branch/main/index.json",
         "short_desc": "Pagsasaling Filipino para sa UM:PD / Filipino Translations for UM:PD",
         "language": "fil",
+        "region": "Global"
+    },
+    {
+        "name": "Español",
+        "index": "https://raw.githubusercontent.com/Sebaex/hachimi-tl-es/main/index.json",
+        "short_desc": "Patch de traducción al español para Umamusume. Contribuidor: Sebaex. Abierto a contribuciones.",
+        "language": "es",
         "region": "Global"
     },
     {
@@ -95,5 +87,17 @@
         "index": "https://files.leadrdrk.com/hachimi/umatl-sd-only.json",
         "short_desc": "Use if you get ZIP errors, see matching desc above. Might be temporary, so keep up to date with developments!",
         "language": "en"
+    },
+    {
+        "name": "繁體中文（大陸加速鏡像）",
+        "index": "https://fuwadl.yingqwq.cn/zh-tw/index/index.json",
+        "short_desc": "來源：Trainers' Legend G (tinyurl.com/TLGCredits), 官方. 貢獻者：yotv2000tw (+維護者), seanpai96, asps76482, _akito@ytb, project90418512@twt, …",
+        "language": "zh-tw"
+    },
+    {
+        "name": "简体中文（大陆加速镜像）",
+        "index": "https://fuwadl.yingqwq.cn/zh-cn/index/index.json",
+        "short_desc": "官方源，仅对部分地区有加速效果。部分译文内容继承自 Trainers' Legend G 译文仓库(tinyurl.com/TLGCredits)。 贡献者：yingyingyingqwq (+维护者), 1oschi, lanshan114514, hyperlotus, Virlurable, yushenzc, … ",
+        "language": "zh-cn"
     }
 ]
